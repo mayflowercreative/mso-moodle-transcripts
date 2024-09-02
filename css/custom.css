@@ -1,0 +1,44 @@
+.cr-text-center {
+	text-align: center;
+	line-height: 62px !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important;
+	text-decoration: none !important;
+}
+
+a.flex-sm-fill.text-sm-center.nav-link:hover {
+    text-decoration: none !important;
+}
+
+.table-hover td{
+	vertical-align: middle !important;
+}
+
+.t-dbl-line {
+	border-top: 5px double #666;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.t-program-name{
+	margin-top:20px;
+}
+
+.t-txt-right{
+	text-align:right;
+}
+
+.t-row-head {
+	background-color: lightcyan;
+}
+.t-signature {
+	width: 50%;
+	padding-top: 5px;
+	border-top: 1px solid #666;
+	margin-top: 40px;
+}
+.t-footer-note{
+	margin-top:50px;
+}
