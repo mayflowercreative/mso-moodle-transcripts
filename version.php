@@ -31,7 +31,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 20224050537;  // YYYYMMDDHH (Year Month Day 24-hr time).
+$plugin->version = 2024101347;  // YYYYMMDDHH (Year Month Day 24-hr time).
 $plugin->requires = 2022041200; // YYYYMMDDHH (The release version of Moodle 4.1).
 $plugin->component = 'local_ibq'; // Name of your plugin (used for diagnostics).
   
